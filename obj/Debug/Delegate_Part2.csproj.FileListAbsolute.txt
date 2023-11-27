@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\bin\Debug\Delegate_Part2.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\bin\Debug\Delegate_Part2.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\bin\Debug\Delegate_Part2.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\obj\Debug\Delegate_Part2.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\obj\Debug\Delegate_Part2.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\obj\Debug\Delegate_Part2.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day16\Delegate_Part2\Delegate_Part2\obj\Debug\Delegate_Part2.pdb
